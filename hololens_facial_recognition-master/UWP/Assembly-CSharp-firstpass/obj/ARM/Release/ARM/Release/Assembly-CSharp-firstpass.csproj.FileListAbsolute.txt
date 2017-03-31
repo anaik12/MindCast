@@ -1,0 +1,17 @@
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\bin\ARM\Release\Assembly-CSharp-firstpass.dll
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\bin\ARM\Release\Assembly-CSharp-firstpass.pdb
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\bin\ARM\Release\Assembly-CSharp-firstpass.pri
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\Assembly-CSharp-firstpass.dll
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\Assembly-CSharp-firstpass.pdb
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\priconfig.xml
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\priconfig.xml.intermediate
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\layout.resfiles
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\layout.resfiles.intermediate
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\resources.resfiles
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\resources.resfiles.intermediate
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\pri.resfiles
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\pri.resfiles.intermediate
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\qualifiers.txt
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\qualifiers.txt.intermediate
+C:\Workspace\Unity\Hololens\hololens_facial_recognition-master\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\MultipleQualifiersPerDimensionFound.txt

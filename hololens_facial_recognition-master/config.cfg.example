@@ -1,0 +1,2 @@
+[API]
+FaceAPIKey = 8f07a2368dac438cb133583229ffd442EmotionAPIKey = 5acbbeed8dcf4b60a8cc5c410a26ff0fOpenFaceUrl = http://ml.cer.auckland.ac.nz:8000 # A running instance of https://hub.docker.com/r/uoacer/openface-mass-compare/
